@@ -1,0 +1,42 @@
+html{
+    background-color: rgb(214, 208, 201)
+    ;
+}
+
+.encabezado{
+    font-size: large;
+    font-family: sans-serif;
+    margin-top: 0px;
+    padding:auto ;
+    color: white;
+    background-color: black;
+    /* text-align: center; */
+
+}
+
+.titulo{
+    text-align: center;
+}
+
+.opciones{
+    border-color: black;
+    display: flex;
+    /* padding: 12px; */
+    /* margin: 12px; */
+    /* text-align: center; */
+    /* text-align: left; */
+}
+
+.item{
+    border-color: blue;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right:100px ;
+    margin-left: 100px ;
+    font-size: 26px;
+    text-align: center;
+}
+
+fieldset{
+    text-align: center;
+}
